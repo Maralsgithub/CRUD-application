@@ -1,5 +1,5 @@
 # CRUD-application
-This project allows you to create CRUD (Create,Read,Update,Delete) Operation with IndexDB Database - JavaScript Project
+This project allows you to create CRUD (Create,Read,Update,Delete) Operation with IndexDB Database - JavaScript Project + MySQL
 
  Link to YouTube video:
 (https://youtu.be/vWVwEGzrZts)
